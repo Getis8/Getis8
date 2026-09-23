@@ -1,45 +1,27 @@
-# 👋 Hi, I'm Stas!
+👋 Привіт!
 
-## 👨‍💻 About Me
+Про мене
 
-I am a Computer Science student interested in software development
-and web technologies.
+🎓 Навчаюся на Computer Science
 
-- 🎓 Computer Science student
-- 💻 Learning programming and web development
-- 🌱 Currently improving my Git and GitHub skills
-- 🚀 Interested in developing my own projects
-
-## 🛠️ Technologies
-
-### Programming languages
-
+💻 Вивчаю:
 - C++
 - HTML
 - CSS
 - JavaScript
 
-### Tools
-
+🛠️ Працюю з:
 - Git
 - GitHub
-- Visual Studio Code
+- VS Code
 - Figma
 
-## 📚 Currently Learning
+📚 Зараз вивчаю:
+- Web technologies
+- Git/GitHub
+- Databases
 
-- Web development
-- Git and GitHub
-- Database technologies
-- Software development
-
-## 🎯 My Goals
-
-- Improve my programming skills
-- Create my own pet projects
-- Learn new technologies
-- Build a portfolio on GitHub
-
-## 📫 Contact
-
-- GitHub: https://github.com/Getis8
+🎯 Цілі:
+- Покращити навички програмування
+- Створювати власні проєкти
+- Розвиватися як розробник
